@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Exchange Rate App</string>
+    <string name="popup_msg">No exchange rate data is available for the selected currency</string>
+</resources>
